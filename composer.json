@@ -24,7 +24,6 @@
     "minimum-stability": "stable",
     "require": {
         "php": "^8.0",
-        "ext-curl": "*",
         "ext-gmp": "*",
         "simplito/elliptic-php": "^1.0"
     }
